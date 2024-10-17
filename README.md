@@ -1,4 +1,4 @@
-QR Code Attendance System
+## QR Code Attendance System
 
 This project is a simple **QR Code Attendance System** that allows teachers to generate QR codes, and students can scan them to record their attendance. The attendance data (student name, QR code content, and timestamp) is saved into a local CSV file.
 
