@@ -25,7 +25,7 @@ This project is a simple **QR Code Attendance System** that allows teachers to g
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/qr-code-attendance.git
+   git clone https://github.com/Ashking-tech/qr-code-attendance.git
    cd qr-code-attendance
    ```
 
@@ -43,6 +43,7 @@ This project is a simple **QR Code Attendance System** that allows teachers to g
 
 4. **Access the Application:**
    - Open `http://localhost:3000` in your browser.
+   - Enter your ip address in "local host"
    - You can generate and scan QR codes for attendance.
 
 5. **View Attendance Data:**
